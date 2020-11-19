@@ -1,10 +1,6 @@
-# hp-omen-dc11xxx-hackintosh
-hp-omen dc1xxx (15) laptop EFI OpenCore(Hackintosh)
+# HP Omen 15 dc000xxx with Open Core 0.6.3 Hackintosh
+Works with Big Sur 10.16
 
-OpenCore 6.0 hp omen dc1xxx 15 with support macOS big sur and macOS catalina(2020)
 
-Working?.
-
-(All working without wifi).
 
 
