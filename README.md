@@ -2,10 +2,14 @@
 Works with Big Sur 10.16
 
 
-What works:
+<i>What works:</i>
 
-* Batter, battery status
+* Battery, battery status
 * Wi-fi (not full speed but is ok)
+* Bluetooth
+* Audio
+* Graphics Intel
+
 
 
 
