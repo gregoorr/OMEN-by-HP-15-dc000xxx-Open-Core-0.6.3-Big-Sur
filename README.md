@@ -12,8 +12,8 @@ Works with Big Sur 10.16
 * SD card reader
 
 
-
-To do:
+</i>
+<i>To fix:
 * Display brightness
 
 
@@ -33,7 +33,7 @@ Memory RAM</br>
 <b>12 GB</b>
 
 Video graphics
-Intel UHD Graphics 630
+<b>Intel UHD Graphics 630</b>
 NVIDIA® GeForce® GTX 1050
 
 Hard drive
