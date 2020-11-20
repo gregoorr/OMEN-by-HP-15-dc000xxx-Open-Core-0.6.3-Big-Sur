@@ -2,5 +2,11 @@
 Works with Big Sur 10.16
 
 
+What works:
+
+<b>*</b> Battery status
+
+
+
 
 
