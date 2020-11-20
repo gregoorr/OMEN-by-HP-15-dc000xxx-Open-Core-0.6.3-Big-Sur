@@ -14,3 +14,12 @@ Works with Big Sur 10.16
 
 
 
+
+
+
+Thanks for @esquizofreicdev1
+
+
+
+
+
