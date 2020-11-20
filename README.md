@@ -9,6 +9,8 @@ Works with Big Sur 10.16
 * Bluetooth
 * Audio
 * Graphics Intel
+* SD card reader
+
 
 
 
