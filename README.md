@@ -25,3 +25,10 @@ Thanks for <a href="https://github.com/esquizofreicdev1">esquizofreicdev1</a>
 
 
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/LJ6YPTV/Screen-Shot-2020-11-20-at-01-26-44.png" alt="Screen Shot 2020-11-20 at 01.26.44" border="0"></a>
+
+
+
+
+
+
