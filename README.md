@@ -12,8 +12,9 @@ Works with Big Sur 10.16
 * SD card reader
 
 
-</i>
-<i>To fix:
+
+<i>To fix:</i>
+
 * Display brightness
 
 
