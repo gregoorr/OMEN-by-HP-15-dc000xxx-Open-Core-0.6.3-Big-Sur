@@ -21,7 +21,7 @@ To do:
 
 HARDWARE:
 	
-OMEN by HP - 15-dc0007ns
+OMEN by HP - 15-dc000xxx
 
 Processor
 	
