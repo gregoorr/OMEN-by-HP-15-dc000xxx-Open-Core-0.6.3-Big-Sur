@@ -38,16 +38,18 @@ Video graphics</br>
 NVIDIA® GeForce® GTX 1050
 
 Hard drive</br>
-1 TB 7200 rpm SATA
-128 GB PCIe® NVMe™ M.2 SSD
+<b>1 TB 7200 rpm SATA</b></br>
+<b>128 GB PCIe® NVMe™ M.2 SSD</b>
 
 Display</br>
-39.6 cm (15.6") diagonal FHD IPS anti-glare micro-edge WLED-backlit (1920 x 1080)
+<b>39.6 cm (15.6") diagonal FHD IPS anti-glare micro-edge WLED-backlit (1920 x 1080)
 
 Wireless connectivity</br>
-Intel® Wireless-AC 9560 802.11b/g/n/ac (2x2) Wi-Fi® </br>
-Bluetooth® 5 ComboNetwork interface
-Integrated 10/100/1000 GbE LAN
+<b>Intel® Wireless-AC 9560 802.11b/g/n/ac (2x2) Wi-Fi® </b></br>
+<b>Bluetooth® 5 Combo</b>
+
+Network interface</br>
+</b>Integrated 10/100/1000 GbE LAN</b>
 
 Expansion slots</br>
 1 multi-format SD media card reader
