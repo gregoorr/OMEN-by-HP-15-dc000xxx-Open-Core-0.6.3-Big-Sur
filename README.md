@@ -42,7 +42,7 @@ Hard drive</br>
 <b>128 GB PCIe® NVMe™ M.2 SSD</b>
 
 Display</br>
-<b>39.6 cm (15.6") diagonal FHD IPS anti-glare micro-edge WLED-backlit (1920 x 1080)
+<b>39.6 cm (15.6") diagonal FHD IPS anti-glare micro-edge WLED-backlit (1920 x 1080)</b>
 
 Wireless connectivity</br>
 <b>Intel® Wireless-AC 9560 802.11b/g/n/ac (2x2) Wi-Fi® </b></br>
