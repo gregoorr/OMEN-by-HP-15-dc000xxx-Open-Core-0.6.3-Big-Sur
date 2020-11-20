@@ -17,7 +17,7 @@ Works with Big Sur 10.16
 
 
 
-Thanks for @esquizofreicdev1
+Thanks for <a href="https://github.com/esquizofreicdev1">esquizofreicdev1</a>
 
 
 
