@@ -33,29 +33,29 @@ Chipset</br>
 Memory RAM</br>
 <b>12 GB</b>
 
-Video graphics
+Video graphics</br>
 <b>Intel UHD Graphics 630</b>
 NVIDIA® GeForce® GTX 1050
 
-Hard drive
+Hard drive</br>
 1 TB 7200 rpm SATA
 128 GB PCIe® NVMe™ M.2 SSD
 
-Display
+Display</br>
 39.6 cm (15.6") diagonal FHD IPS anti-glare micro-edge WLED-backlit (1920 x 1080)
 
-Wireless connectivity
+Wireless connectivity</br>
 Intel® Wireless-AC 9560 802.11b/g/n/ac (2x2) Wi-Fi® and Bluetooth® 5 ComboNetwork interface
 Integrated 10/100/1000 GbE LAN
 
-Expansion slots
+Expansion slots</br>
 1 multi-format SD media card reader
 
-External ports
+External ports</br>
 1 USB 3.1 Type-C™ Gen 1 (Data Transfer up to 5 Gb/s, DP1.2, HP Sleep and Charge); 3 USB 3.1 Gen 1 (1 HP Sleep and Charge); 1 HDMI; 1 RJ-45; 1 headphone/microphone combo
 Minimum dimensions (W x D x H)
 	
-Webcam
+Webcam</br>
 HP Wide Vision HD Camera 
 
 
