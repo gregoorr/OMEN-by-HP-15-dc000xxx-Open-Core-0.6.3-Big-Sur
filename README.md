@@ -34,7 +34,7 @@ Memory RAM</br>
 <b>12 GB</b>
 
 Video graphics</br>
-<b>Intel UHD Graphics 630</b></br>
+<b>Intel® UHD Graphics 630</b></br>
 <b>NVIDIA® GeForce® GTX 1050</b>
 
 Hard drive</br>
