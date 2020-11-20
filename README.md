@@ -24,7 +24,7 @@ HARDWARE:
 <b>OMEN by HP - 15-dc000xxx</b> 
 
 Processor</br>	
-<b>Intel® Core™ i7-8750H (2.2 GHz base frequency, up to 4.1 GHz with Intel® Turbo Boost Technology, 9 MB cache, 6 cores)</b>
+<b>Intel® Core™ i7-8750H</b>
 
 Chipset</br>
 <b>Intel® HM370</b>
