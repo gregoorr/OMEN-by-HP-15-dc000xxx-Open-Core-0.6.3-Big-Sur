@@ -9,7 +9,7 @@ Works with Big Sur 10.16
 * Bluetooth
 * Audio
 * Graphics Intel
-* SD card reader
+* SD media card reader
 
 
 
@@ -34,8 +34,8 @@ Memory RAM</br>
 <b>12 GB</b>
 
 Video graphics</br>
-<b>Intel UHD Graphics 630</b>
-NVIDIA® GeForce® GTX 1050
+<b>Intel UHD Graphics 630</b></br>
+<b>NVIDIA® GeForce® GTX 1050</b>
 
 Hard drive</br>
 <b>1 TB 7200 rpm SATA</b></br>
@@ -49,19 +49,19 @@ Wireless connectivity</br>
 <b>Bluetooth® 5 Combo</b>
 
 Network interface</br>
-</b>Integrated 10/100/1000 GbE LAN</b>
+<b>Integrated 10/100/1000 GbE LAN</b>
 
 Expansion slots</br>
-1 multi-format SD media card reader
+<b>1 multi-format SD media card reader</b>
 
 External ports</br>
-1 USB 3.1 Type-C™ Gen 1</br>
+<b>1 USB 3.1 Type-C™ Gen 1</br>
 3 USB 3.1 Gen 1</br>
-1 HDMI</br> 1 RJ-45</br> 1 headphone/microphone combo
+1 HDMI</br> 1 RJ-45</br> 1 headphone/microphone combo</b>
 </br>
 	
 Webcam</br>
-HP Wide Vision HD Camera 
+<b>HP Wide Vision HD Camera </b>
 
 
 
