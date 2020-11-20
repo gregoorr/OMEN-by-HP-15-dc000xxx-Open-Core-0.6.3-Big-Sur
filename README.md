@@ -70,7 +70,7 @@ Webcam</br>
 
 
 
-Thanks for <a href="https://github.com/esquizofreicdev1">esquizofreicdev1</a>
+
 
 
 
@@ -81,5 +81,5 @@ Thanks for <a href="https://github.com/esquizofreicdev1">esquizofreicdev1</a>
 
 
 
-
+Thanks for <a href="https://github.com/esquizofreicdev1">esquizofreicdev1</a>
 
