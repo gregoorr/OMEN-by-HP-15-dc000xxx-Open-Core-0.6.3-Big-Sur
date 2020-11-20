@@ -45,15 +45,18 @@ Display</br>
 39.6 cm (15.6") diagonal FHD IPS anti-glare micro-edge WLED-backlit (1920 x 1080)
 
 Wireless connectivity</br>
-Intel® Wireless-AC 9560 802.11b/g/n/ac (2x2) Wi-Fi® and Bluetooth® 5 ComboNetwork interface
+Intel® Wireless-AC 9560 802.11b/g/n/ac (2x2) Wi-Fi® </br>
+Bluetooth® 5 ComboNetwork interface
 Integrated 10/100/1000 GbE LAN
 
 Expansion slots</br>
 1 multi-format SD media card reader
 
 External ports</br>
-1 USB 3.1 Type-C™ Gen 1 (Data Transfer up to 5 Gb/s, DP1.2, HP Sleep and Charge); 3 USB 3.1 Gen 1 (1 HP Sleep and Charge); 1 HDMI; 1 RJ-45; 1 headphone/microphone combo
-Minimum dimensions (W x D x H)
+1 USB 3.1 Type-C™ Gen 1</br>
+3 USB 3.1 Gen 1</br>
+1 HDMI</br> 1 RJ-45</br> 1 headphone/microphone combo
+</br>
 	
 Webcam</br>
 HP Wide Vision HD Camera 
