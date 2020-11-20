@@ -4,8 +4,8 @@ Works with Big Sur 10.16
 
 What works:
 
-<b>*</b> Battery status
-
+* Batter, battery status
+* Wi-fi (not full speed but is ok)
 
 
 
