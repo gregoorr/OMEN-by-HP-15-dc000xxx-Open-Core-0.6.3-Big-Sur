@@ -29,8 +29,8 @@ Processor</br>
 Chipset</br>
 <b>Intel® HM370</b>
 
-Memory RAM
-12 GB 
+Memory RAM</br>
+<b>12 GB</b>
 
 Video graphics
 Intel UHD Graphics 630
