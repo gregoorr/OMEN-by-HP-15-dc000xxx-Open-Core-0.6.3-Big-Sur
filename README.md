@@ -2,6 +2,11 @@
 Works with Big Sur 10.16
 
 
+<b>Use at your own risk</b>
+
+
+
+
 <i>What works:</i>
 
 * Battery, battery status
