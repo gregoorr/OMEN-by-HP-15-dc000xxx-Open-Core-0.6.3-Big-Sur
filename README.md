@@ -2,7 +2,8 @@
 Works with Big Sur 11.2.3/11.4
 
 
-Remember to change the PlatformInfo in OpenCore
+Remember to change data the PlatformInfo in OpenCore like serial number etc.
+
 
 <b>Use at your own risk</b>
 
