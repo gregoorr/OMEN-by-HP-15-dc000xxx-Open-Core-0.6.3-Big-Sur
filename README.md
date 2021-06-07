@@ -21,6 +21,8 @@ Remember to change the platform info
 
 To fix:
 * Show opencore version
+* HDMI
+* 
 
 
 
