@@ -10,7 +10,7 @@ Works with Big Sur 11.2.3
 <i>What works:</i>
 
 * Battery, battery status
-* Wi-fi (not full speed but is ok)
+* Wi-fi (almost full speed, is ok)
 * Bluetooth
 * Audio
 * Graphics Intel
