@@ -1,5 +1,5 @@
 # HP Omen 15 dc000xxx with Open Core 0.6.3 Hackintosh
-Works with Big Sur 11.2.3
+Works with Big Sur 11.2.3/11.4
 
 
 <b>Use at your own risk</b>
@@ -15,12 +15,9 @@ Works with Big Sur 11.2.3
 * Audio
 * Graphics Intel
 * SD media card reader
+* * Display brightness
 
 
-
-<i>To fix:</i>
-
-* Display brightness
 
 
 
