@@ -78,8 +78,7 @@ Webcam</br>
 
 
 
-<a href="https://ibb.co/HTW2tZL"><img src="https://i.ibb.co/LdLPxKD/Screen-Shot-2020-11-20-at-01-26-44.png" alt="Screen-Shot-2020-11-20-at-01-26-44" border="0"></a>
-
+<a href="https://ibb.co/W5pm1Jg"><img src="https://i.ibb.co/9g3Qj5s/Screen-Shot-2021-06-07-at-14-48-18.png" alt="Screen-Shot-2021-06-07-at-14-48-18" border="0"></a>
 
 
 
