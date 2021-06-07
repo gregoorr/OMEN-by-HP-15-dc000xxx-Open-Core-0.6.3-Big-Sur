@@ -17,6 +17,8 @@ Works with Big Sur 11.2.3/11.4
 * SD media card reader
 * Display brightness
 
+To fix:
+* Show opencore version
 
 
 
