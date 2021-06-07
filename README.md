@@ -2,7 +2,7 @@
 Works with Big Sur 11.2.3/11.4
 
 
-Remember to change the platform info
+Remember to change the PlatformInfo in OpenCore
 
 <b>Use at your own risk</b>
 
