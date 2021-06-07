@@ -2,6 +2,8 @@
 Works with Big Sur 11.2.3/11.4
 
 
+Remember to change the platform info
+
 <b>Use at your own risk</b>
 
 
