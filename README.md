@@ -15,7 +15,7 @@ Works with Big Sur 11.2.3/11.4
 * Audio
 * Graphics Intel
 * SD media card reader
-* * Display brightness
+* Display brightness
 
 
 
